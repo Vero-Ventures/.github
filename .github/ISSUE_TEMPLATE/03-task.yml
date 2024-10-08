@@ -29,10 +29,3 @@ body:
       description: Include links to related documentation, files, or tools needed to complete the task.
     validations:
       required: false
-  - type: textarea
-    id: additional-notes
-    attributes:
-      label: Additional Notes
-      description: Add any other notes or comments about this task here.
-    validations:
-      required: false
